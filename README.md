@@ -158,8 +158,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Praise Dike - [Github](https://github.com/freedompraise) / [Twitter](https://twitter.com/freedom_praise)  
-Ogunremi Abiodun - [Github](https://github.com/jonero82)
+Chibuzor Daniel Uwezukwe - [Github](https://github.com/uwezukwechibuzor) / [Twitter](https://twitter.com/chidanieering)  
 
 Second part of Airbnb: Praise Dike
 ## License
